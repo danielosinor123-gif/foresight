@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Rust
+foresight-core/target/
+
+# OS
+.DS_Store
+Thumbs.db
